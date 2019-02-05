@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.abrahamlimlaw.com/</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.abrahamlimlaw.com/index.php</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.abrahamlimlaw.com/articles.php</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.abrahamlimlaw.com/contact.php</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.abrahamlimlaw.com/gallery.php</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.abrahamlimlaw.com/services.php</loc>
+		<lastmod>2014-08-17</lastmod>
+		<priority>1.0</priority>
+	</url>
+</urlset>
